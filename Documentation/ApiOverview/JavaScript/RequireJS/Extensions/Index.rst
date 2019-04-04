@@ -20,7 +20,7 @@ To be able to use RequireJS at all, some prerequisites must be fulfilled:
 * complete example: `TYPO3/CMS/FooBar/MyMagicModule` is resided in `EXT:foo_bar/Resources/Public/JavaScript/MyMagicModule.js`
 
 
-Every AMD is wrapped in the same construct:
+Every AMD (Asynchronous Module Definition) is wrapped in the same construct:
 
 .. code-block:: js
 
